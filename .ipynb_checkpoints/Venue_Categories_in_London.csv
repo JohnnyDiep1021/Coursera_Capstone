@@ -1,64 +1,16 @@
-Venue Category,Postal Code,Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,Venue Longitude
-Insurance Office,12,12,12,12,12,12,12
-Coffee Shop,6,6,6,6,6,6,6
-Hotel,4,4,4,4,4,4,4
-Park,4,4,4,4,4,4,4
-Pharmacy,4,4,4,4,4,4,4
-Construction & Landscaping,3,3,3,3,3,3,3
-Home Service,2,2,2,2,2,2,2
-Lawyer,2,2,2,2,2,2,2
-Gas Station,2,2,2,2,2,2,2
-Pet Store,2,2,2,2,2,2,2
-Pub,2,2,2,2,2,2,2
-Rental Car Location,2,2,2,2,2,2,2
-Pizza Place,2,2,2,2,2,2,2
-Restaurant,2,2,2,2,2,2,2
-Auto Garage,2,2,2,2,2,2,2
-Breakfast Spot,2,2,2,2,2,2,2
-Mobile Phone Shop,1,1,1,1,1,1,1
-Thai Restaurant,1,1,1,1,1,1,1
-Irish Pub,1,1,1,1,1,1,1
-Liquor Store,1,1,1,1,1,1,1
-Massage Studio,1,1,1,1,1,1,1
-Mediterranean Restaurant,1,1,1,1,1,1,1
-Supermarket,1,1,1,1,1,1,1
-Mexican Restaurant,1,1,1,1,1,1,1
-Modern European Restaurant,1,1,1,1,1,1,1
-Salon / Barbershop,1,1,1,1,1,1,1
-Multiplex,1,1,1,1,1,1,1
-Storage Facility,1,1,1,1,1,1,1
-Pawn Shop,1,1,1,1,1,1,1
-Sports Bar,1,1,1,1,1,1,1
-Sporting Goods Shop,1,1,1,1,1,1,1
-Soup Place,1,1,1,1,1,1,1
-Sandwich Place,1,1,1,1,1,1,1
-Intersection,1,1,1,1,1,1,1
-African Restaurant,1,1,1,1,1,1,1
-Ice Cream Shop,1,1,1,1,1,1,1
-IT Services,1,1,1,1,1,1,1
-Athletics & Sports,1,1,1,1,1,1,1
-Bar,1,1,1,1,1,1,1
-Beer Store,1,1,1,1,1,1,1
-Burger Joint,1,1,1,1,1,1,1
-Business Service,1,1,1,1,1,1,1
-Café,1,1,1,1,1,1,1
-Carpet Store,1,1,1,1,1,1,1
-Chinese Restaurant,1,1,1,1,1,1,1
-Clothing Store,1,1,1,1,1,1,1
-Convenience Store,1,1,1,1,1,1,1
-Dance Studio,1,1,1,1,1,1,1
-Diner,1,1,1,1,1,1,1
-Discount Store,1,1,1,1,1,1,1
-Doctor's Office,1,1,1,1,1,1,1
-Eastern European Restaurant,1,1,1,1,1,1,1
-Electronics Store,1,1,1,1,1,1,1
-Event Space,1,1,1,1,1,1,1
-Fast Food Restaurant,1,1,1,1,1,1,1
-Flower Shop,1,1,1,1,1,1,1
-Furniture / Home Store,1,1,1,1,1,1,1
-Grocery Store,1,1,1,1,1,1,1
-Gym,1,1,1,1,1,1,1
-Gym / Fitness Center,1,1,1,1,1,1,1
-History Museum,1,1,1,1,1,1,1
-Asian Restaurant,1,1,1,1,1,1,1
-Vegetarian / Vegan Restaurant,1,1,1,1,1,1,1
+,Postal Code,Neighborhood,Venue,Venue Latitude,Venue Longitude,Venue Category
+0,N6B,London Central,99,99,99,99
+1,N6C,East Highland / North White Oaks / North Westminster,52,52,52,52
+2,N6A,UWO,51,51,51,51
+3,N5Y,West Huron Heights / Carling,36,36,36,36
+4,N6G,Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow,24,24,24,24
+5,N6K,Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount,24,24,24,24
+6,N5Z,Glen Cairn,18,18,18,18
+7,N6J,Southcrest / East Westmount / West Highland,11,11,11,11
+8,N6E,South White Oaks / Central Westminster / East Longwoods / West Brockley,8,8,8,8
+9,N5V,YXU / North and East Argyle / East Huron Heights,5,5,5,5
+10,N5W,SW Argyle / Hamilton Road,5,5,5,5
+11,N5X,Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville,5,5,5,5
+12,N6H,Central Hyde Park / Oakridge,2,2,2,2
+13,N6L,East Tempo,1,1,1,1
+14,N6N,South Highbury / Glanworth / East Brockley / SE Westminster,1,1,1,1
